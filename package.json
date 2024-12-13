@@ -1,7 +1,7 @@
 {
   "name": "rija-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/R-Rija",
+  "homepage": "https://github.com/R-Rija/My_personal_portfolio.git",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
